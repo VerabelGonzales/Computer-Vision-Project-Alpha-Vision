@@ -167,7 +167,7 @@ def run(
                         threshold = float(label)
 
                         if threshold > 0.90:
-                          cv2.imwrite('/content/drive/MyDrive/Project_Alpha_Vision/LOST_DOGS/Pug/'+name+'.jpg',cropped_img)
+                          cv2.imwrite('/content/Project_Alpha_Vision/Find/Pug/'+name+'.jpg',cropped_img)
 
                         
                     if save_crop:
