@@ -1,1 +1,0 @@
-In this folder the images are stored in order to determine the breed of the dog. 
