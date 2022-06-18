@@ -292,7 +292,7 @@ def run(
                         filenames = []
                         images = []
 
-                        if mean > 0.9 and mean < 0.95:
+                        if mean > 0.89:
                           cv2.imwrite('/content/Project_Alpha_Vision/Find/Chihuahua/'+name+'.jpg',cropped_img)
 
                         
